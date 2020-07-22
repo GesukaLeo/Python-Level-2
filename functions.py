@@ -39,8 +39,10 @@ print("the sum now of {0} plus {1} is equal {2}".format(num1, num2, sum))
 
 print(GetSquares(4))
 
+square = GetSquares(16)
 
 
+print("the square is ", square)
 
 
 
