@@ -8,6 +8,10 @@ def AddNumbers(x,y):   #definition of the function
 
     return x + y
 
+def GetSquares(x):
+
+    return x * x
+
 
 #call our function
 
@@ -30,6 +34,10 @@ sum = AddNumbers(num1,num2)
 #Print the sum
 
 print("the sum now of {0} plus {1} is equal {2}".format(num1, num2, sum))
+
+#call the squares function
+
+print(GetSquares(4))
 
 
 
