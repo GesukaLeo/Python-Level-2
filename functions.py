@@ -68,8 +68,8 @@ print("The area is =",area)
 
 def AreaOfRectangle(): #No parameters
 
-    l = 20
-    w = 40
+    l = eval(input("Enter the value for the length of your rectangle \n"))  #prompt user for the length
+    w = eval(input("Enter the value for the width of your reactangle \n"))  #prompt user for width
 
     Area = l * w
 
