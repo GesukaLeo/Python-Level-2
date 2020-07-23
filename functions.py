@@ -46,6 +46,34 @@ square = GetSquares(16)
 
 print("the square is ", square)
 
+#A function that calculates the area of Circle
+
+def AreaOfCircle(r):  #pi
+    PI = 3.142  #declared a constant --- whose values don't change --- static -- uppercase
+
+    return (PI * r ** 2)
+
+
+
+#function call
+
+area = AreaOfCircle(14)
+
+#display the results
+
+print("The area is =",area)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
