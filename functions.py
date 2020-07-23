@@ -64,6 +64,25 @@ area = AreaOfCircle(14)
 print("The area is =",area)
 
 
+#function definition 
+
+def AreaOfRectangle(): #No parameters
+
+    l = 20
+    w = 40
+
+    Area = l * w
+
+    print("Area of rectangle is ",Area)
+
+#function call
+ 
+
+AreaOfRectangle()
+
+
+
+
 
 
 
