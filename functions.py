@@ -81,6 +81,11 @@ def AreaOfRectangle(): #No parameters
 AreaOfRectangle()
 
 
+#Exercise write a function to calculate the perimeter of rectangle  
+
+#Push you code online
+
+
 
 
 
