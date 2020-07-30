@@ -14,7 +14,7 @@ p {
     background-color: ivory;
     color: rgb(14, 17, 189);
     width: fit-content;
-    height: 20px;
+    height: auto;
     margin: 10px;
     border:2px solid #fc0000;
     padding: 5px;
@@ -26,7 +26,7 @@ h1 {
     background-color: rgb(240, 255, 246);
     color: rgb(12, 148, 73);
     width: fit-content;
-    height: 35px;
+    height: auto;
     margin: 10px;
     border:2px solid #fc0000;
     padding: 5px;
